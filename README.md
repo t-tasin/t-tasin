@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scitasin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-tasin) [![Portfolio](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EWebpack%3C%2Ftitle%3E%3Cpath%20d%3D%22M22.1987%2018.498l-9.7699%205.5022v-4.2855l6.0872-3.3338%203.6826%202.117zm.6683-.6026V6.3884l-3.5752%202.0544v7.396zm-21.0657.6026l9.7699%205.5022v-4.2855L5.484%2016.3809l-3.6826%202.117zm-.6683-.6026V6.3884l3.5751%202.0544v7.396zm.4183-12.2515l10.0199-5.644v4.1434L5.152%207.6586l-.0489.028zm20.8975%200l-10.02-5.644v4.1434l6.4192%203.5154.0489.028%203.5518-2.0427zm-10.8775%2013.096l-6.0056-3.2873V8.9384l6.0054%203.4525v6.349zm.8575%200l6.0053-3.2873V8.9384l-6.0053%203.4525zM5.9724%208.1845l6.0287-3.3015L18.03%208.1845l-6.0288%203.4665z%22%2F%3E%3C%2Fsvg%3E&logoColor=%238DD6F9&link=https%3A%2F%2Ftsaifullah.com%2F)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scitasin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-tasin) [![Portfolio](https://img.shields.io/badge/:badgeContent?logo=webpack&logoColor=white&labelColor=%238DD6F9)](https://tsaifullah.com/)
 
 
 # 💻 Tech Stack:
