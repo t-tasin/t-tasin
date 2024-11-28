@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scitasin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-tasin) [![Portfolio](https://img.shields.io/badge/:badgeContent?logo=webpack&logoColor=white&labelColor=%238DD6F9)](https://tsaifullah.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scitasin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-tasin) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://tsaifullah.com/)
 
 
 # 💻 Tech Stack:
